@@ -24,4 +24,4 @@ To replicate this analysis, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sales-data-analysis.git
+   git clone https://github.com/SamiKhaji/Store-Sales-Analysis.git
